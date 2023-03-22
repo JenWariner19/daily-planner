@@ -19,8 +19,7 @@ $(function () {
     var eventTxt = textBlock.val();
     
     localStorage.setItem(eventTime, eventTxt);
-    var textData = JSON.parse(window.localStorage.getItem(eventTxt));
-    console.log(textData)
+
   });
   //
   // Added code to apply the past, present, or future class to each time block.
