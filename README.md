@@ -12,7 +12,7 @@ Screenshot
 
 ## Deployment
 
-
+https://jenwariner19.github.io/daily-planner/
 
 ## Languages
 
